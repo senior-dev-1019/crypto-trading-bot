@@ -13,7 +13,12 @@
       "email": "phuc@nguyenminhphuc.com",
       "name": "Phuc Nguyen Minh",
       "url": "https://nguyenminhphuc.com/"
-    }
+    },
+    {
+      "email": "seniordeveloper1019@gmail.com",
+      "name": "Senior Developer",
+      "url": "http://senior-dev-1019.vercel.app"
+    },
   ],
   "dependencies": {
     "async": "^3.2.0",
